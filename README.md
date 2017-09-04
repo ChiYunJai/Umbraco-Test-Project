@@ -1,4 +1,9 @@
-﻿# mhat-common-boilerplate-repo
+﻿# Umbrac Test Site
+
+.Net Framework 4.5
+UmbracoCMS 7.4.3
+
+## mhat-common-boilerplate-repo
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/alantsai/mhat-common-boilerplate-repo?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
